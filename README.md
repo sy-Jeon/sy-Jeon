@@ -1,4 +1,4 @@
-### Hello I'm Sangyeol Jeon 👋
+### Hello I'm Sangyeol Jeon👋
 
 🧪Tech<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
